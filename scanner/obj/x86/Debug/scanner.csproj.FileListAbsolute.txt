@@ -1,0 +1,6 @@
+C:\Users\rosalinda\documents\visual studio 2010\Projects\scanner\scanner\obj\x86\Debug\scanner.csprojResolveAssemblyReference.cache
+C:\Users\rosalinda\documents\visual studio 2010\Projects\scanner\scanner\obj\x86\Debug\scanner.Form1.resources
+C:\Users\rosalinda\documents\visual studio 2010\Projects\scanner\scanner\obj\x86\Debug\scanner.Properties.Resources.resources
+C:\Users\rosalinda\documents\visual studio 2010\Projects\scanner\scanner\obj\x86\Debug\scanner.csproj.GenerateResource.Cache
+C:\Users\rosalinda\Documents\Visual Studio 2010\Projects\scanner\scanner\obj\x86\Debug\scanner.csprojAssemblyReference.cache
+C:\Users\rosalinda\Documents\Visual Studio 2010\Projects\scanner\scanner\obj\x86\Debug\scanner.csproj.CoreCompileInputs.cache
